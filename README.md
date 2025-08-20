@@ -125,7 +125,8 @@ Before connecting any MCP client, you must authenticate:
     }
   }
 }
-```   > 💡 **Replace `<your-jwt-token>`** with the actual JWT token obtained from the OAuth 2.1 flow at `/mcp_oauth_test.html`.
+```
+> 💡 **Replace `<your-jwt-token>`** with the actual JWT token obtained from the OAuth 2.1 flow at `/mcp_oauth_test.html`.
 
 ## 🚀 Quick Deploy to Azure
 
